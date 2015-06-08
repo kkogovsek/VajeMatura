@@ -5,7 +5,7 @@ Naloga 1:
 ----
 *HTML*
 
-```
+```html
 <center>
   <table>
     <tr>
@@ -30,7 +30,7 @@ Naloga 1:
 
 *CSS*
 
-```
+```css
 body {
   background-color: #426;
   color: #888;
@@ -47,7 +47,7 @@ Naloga 2:
 
 *HTML*
 
-```
+```html
 <table>
   <tr>
     <td><img src="http://pixabay.com/get/33197439553c26001d52/1433782624/avatar-159236_1280.png?direct" alt="" /></td>
@@ -62,7 +62,7 @@ Naloga 2:
 
 *CSS*
 
-```
+```css
 img {
   width: 300px;
 }
