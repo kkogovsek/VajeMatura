@@ -41,3 +41,29 @@ td, th {
   padding: 3px;
 }
 '''
+
+Naloga 2:
+----
+
+*HTML*
+
+'''
+<table>
+  <tr>
+    <td><img src="http://pixabay.com/get/33197439553c26001d52/1433782624/avatar-159236_1280.png?direct" alt="" /></td>
+    <td>
+      <h1>Janez Novak</h1>
+      <h4>1. 1. 2015</h4>
+      <h5>Moški</h5>
+    </td>
+  </tr>
+</table>
+'''
+
+*CSS*
+
+'''
+img {
+  width: 300px;
+}
+'''
